@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b512ce7356115ac",
+        "id": "a769cbc805b7daea",
         "type": "tabs",
         "children": [
           {
-            "id": "cdb9c877f579a8e7",
+            "id": "1dc56d39e8f205c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips_Trick_UsefulStuff/vscode_tips.md",
+                "file": "Literature/CS and Prog Literature.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips_Trick_UsefulStuff/vscode_tips.md",
+                "file": "Literature/CS and Prog Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips_Trick_UsefulStuff/vscode_tips.md",
+                "file": "Literature/CS and Prog Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips_Trick_UsefulStuff/vscode_tips.md"
+                "file": "Literature/CS and Prog Literature.md"
               }
             }
           }
@@ -146,30 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdb9c877f579a8e7",
+  "active": "1dc56d39e8f205c6",
   "lastOpenFiles": [
-    "Tips_Trick_UsefulStuff/Linux/Tiling_Window_Managers.md",
-    "Tips_Trick_UsefulStuff/Linux/editors_and_ides.MD",
-    "Tips_Trick_UsefulStuff/Linux/Arch_Manjaro_TipsAndTricks.MD",
-    "Tips_Trick_UsefulStuff/compsci/grooking_algorithms.MD",
+    "Programming/Learning Rust/getting_started.MD",
+    "Literature/CS and Prog Literature.md",
+    "Literature",
+    "Linux/editors_and_ides.MD",
+    "Linux/Install Arch.md",
+    "Linux/Arch_Manjaro_TipsAndTricks.MD",
     "Tips_Trick_UsefulStuff/vscode_tips.md",
-    "Tips_Trick_UsefulStuff/webdev/ts/gettingStarted.MD",
-    "Tips_Trick_UsefulStuff/webdev/ts",
-    "Tips_Trick_UsefulStuff/webdev/npm.md",
-    "Tips_Trick_UsefulStuff/webdev",
-    "Tips_Trick_UsefulStuff/rust/getting_started.MD",
+    "Linux",
+    "Programming",
+    "Linux/Tiling_Window_Managers.md",
+    "Literature/algosAndDs/grooking_algorithms.MD",
+    "Programming/webdev/ts/gettingStarted.MD",
+    "Programming/webdev/ts",
+    "Programming/webdev/npm.md",
+    "Programming/webdev",
     "Tips_Trick_UsefulStuff/rust",
     "Tips_Trick_UsefulStuff/r",
-    "Tips_Trick_UsefulStuff/python",
+    "Programming/python",
     "Tips_Trick_UsefulStuff/Linux",
-    "Tips_Trick_UsefulStuff/golang",
-    "Tips_Trick_UsefulStuff/compsci",
-    "Tips_Trick_UsefulStuff",
+    "Programming/golang",
     "Untitled.canvas",
-    "Learning Rust/RustEditor/Chapter 4.md",
-    "Learning Rust/RustEditor/Chapter 1_2.md",
-    "Learning Rust/RustEditor/Chapter 3.md",
-    "Learning Rust/RustEditor",
+    "Programming/Learning Rust/RustEditor/Chapter 4.md",
+    "Programming/Learning Rust/RustEditor/Chapter 1_2.md",
+    "Programming/Learning Rust/RustEditor/Chapter 3.md",
     "2023-08-08.md",
     "Untitled 1.canvas"
   ]
