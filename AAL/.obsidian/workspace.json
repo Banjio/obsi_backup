@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a769cbc805b7daea",
+        "id": "b9af1116336705fc",
         "type": "tabs",
         "children": [
           {
-            "id": "1dc56d39e8f205c6",
+            "id": "97cb4b1aa7b05c28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/CS and Prog Literature.md",
+                "file": "Linux/Achinstaller automatisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b92fc38f15c5403d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Install Arch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/CS and Prog Literature.md",
+                "file": "Linux/Achinstaller automatisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/CS and Prog Literature.md",
+                "file": "Linux/Achinstaller automatisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/CS and Prog Literature.md"
+                "file": "Linux/Achinstaller automatisation.md"
               }
             }
           }
@@ -146,31 +158,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dc56d39e8f205c6",
+  "active": "97cb4b1aa7b05c28",
   "lastOpenFiles": [
-    "Programming/Learning Rust/getting_started.MD",
-    "Literature/CS and Prog Literature.md",
-    "Literature",
-    "Linux/editors_and_ides.MD",
     "Linux/Install Arch.md",
-    "Linux/Arch_Manjaro_TipsAndTricks.MD",
+    "Linux/Achinstaller automatisation.md",
     "Tips_Trick_UsefulStuff/vscode_tips.md",
+    "Linux/editors_and_ides.MD",
+    "Linux/Tiling_Window_Managers.md",
+    "Linux/Arch_Manjaro_TipsAndTricks.MD",
+    "Programming/webdev/Javascript.md",
+    "Programming/webdev/Debugging.md",
+    "Programming/webdev/npm.md",
+    "Programming/webdev/ts/gettingStarted.MD",
+    "Projects/CalSpam47/Gmail Api.md",
+    "Projects/CalSpam47",
+    "Untitled.md",
+    "Projects",
+    "Programming/Learning Rust/RustEditor/Chapter 1_2.md",
+    "Literature/CS and Prog Literature.md",
+    "Programming/Learning Rust/getting_started.MD",
+    "Literature",
     "Linux",
     "Programming",
-    "Linux/Tiling_Window_Managers.md",
     "Literature/algosAndDs/grooking_algorithms.MD",
-    "Programming/webdev/ts/gettingStarted.MD",
     "Programming/webdev/ts",
-    "Programming/webdev/npm.md",
     "Programming/webdev",
     "Tips_Trick_UsefulStuff/rust",
     "Tips_Trick_UsefulStuff/r",
     "Programming/python",
-    "Tips_Trick_UsefulStuff/Linux",
-    "Programming/golang",
     "Untitled.canvas",
     "Programming/Learning Rust/RustEditor/Chapter 4.md",
-    "Programming/Learning Rust/RustEditor/Chapter 1_2.md",
     "Programming/Learning Rust/RustEditor/Chapter 3.md",
     "2023-08-08.md",
     "Untitled 1.canvas"

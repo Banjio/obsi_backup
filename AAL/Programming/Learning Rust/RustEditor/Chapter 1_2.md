@@ -2,6 +2,7 @@
 
 * See how to install rust and cargo (rust's build system) https://www.rust-lang.org/tools/install
 * Run `cargo init hecto-clone`
+* Tutorial taken from https://www.flenker.blog/hecto/
 
 ## 1. Getting started
 

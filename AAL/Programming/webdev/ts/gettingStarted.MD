@@ -1,3 +1,4 @@
+
 # Installation
 
 https://www.typescriptlang.org/download
@@ -35,7 +36,7 @@ const user: User = {
     id: 0,
 };
 ```
-Another approach would be to use the interface declaration with classejs classes
+Another approach would be to use the interface declaration with  classes
 ```ts
 interface User {
     name: string;
