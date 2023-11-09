@@ -16,8 +16,9 @@ paru
 
 plymouth # See wiki, set theme and use quiet boot
 
-gdm-plymouth
+# gdm-plymouth # Now renamed to gdm-plytmouth-prime 
 
+sddm
   
 
 # Keyring and security
