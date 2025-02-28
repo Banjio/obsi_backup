@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "cb6ebab8e70e8d9e",
+    "id": "a8b10c860d2bf8ad",
     "type": "split",
     "children": [
       {
-        "id": "0062dd2a058cbd39",
+        "id": "abf0f678a96cc770",
         "type": "tabs",
         "children": [
           {
-            "id": "06174ec684c1d7e7",
+            "id": "a4fa8840d691417f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3D_Printing/Calibration/Tutorials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutorials"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a32ca6cb20396380",
+    "id": "b4941d53864098be",
     "type": "split",
     "children": [
       {
-        "id": "247b3a0fcadfedc3",
+        "id": "45e056be5e2dbec3",
         "type": "tabs",
         "children": [
           {
-            "id": "8cc4aecfb34a42ea",
+            "id": "7129fa5feadc1b21",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "a07b20c33a900dfa",
+            "id": "fed6d39e0026a5e2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "fd7f3b7bcfb6dd20",
+            "id": "5756b50c60851b80",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "22bd45b4eeb9ce9a",
+    "id": "cfa2df71bbb3bc81",
     "type": "split",
     "children": [
       {
-        "id": "68e575315c59561d",
+        "id": "70f28f23c3ef616b",
         "type": "tabs",
         "children": [
           {
-            "id": "fbc41ec5c1e0c828",
+            "id": "a17637686c89dade",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3D_Printing/Neptune 4 Pro Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Neptune 4 Pro Notes"
             }
           },
           {
-            "id": "2492aed377297c4c",
+            "id": "4dc93a6ff53b1152",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3D_Printing/Neptune 4 Pro Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Neptune 4 Pro Notes"
             }
           },
           {
-            "id": "f5f18d05b69182c5",
+            "id": "6977026523e04db2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +137,18 @@
             }
           },
           {
-            "id": "9e67044ce362e3ad",
+            "id": "7e85b4a6b058b22e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "3D_Printing/Neptune 4 Pro Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Neptune 4 Pro Notes"
             }
           }
         ]
@@ -161,39 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06174ec684c1d7e7",
+  "active": "7129fa5feadc1b21",
   "lastOpenFiles": [
-    "2025-02-10.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Linux/Install Arch.md",
-    "Linux/Achinstaller automatisation.md",
-    "Tips_Trick_UsefulStuff/vscode_tips.md",
-    "Linux/editors_and_ides.MD",
-    "Linux/Tiling_Window_Managers.md",
-    "Linux/Arch_Manjaro_TipsAndTricks.MD",
-    "Programming/webdev/Javascript.md",
-    "Programming/webdev/Debugging.md",
-    "Programming/webdev/npm.md",
-    "Programming/webdev/ts/gettingStarted.MD",
-    "Projects/CalSpam47/Gmail Api.md",
-    "Projects/CalSpam47",
-    "Untitled.md",
-    "Projects",
-    "Programming/Learning Rust/RustEditor/Chapter 1_2.md",
-    "Literature/CS and Prog Literature.md",
-    "Programming/Learning Rust/getting_started.MD",
-    "Literature",
-    "Linux",
-    "Programming",
-    "Literature/algosAndDs/grooking_algorithms.MD",
-    "Programming/webdev/ts",
-    "Programming/webdev",
-    "Tips_Trick_UsefulStuff/rust",
-    "Tips_Trick_UsefulStuff/r",
-    "Programming/python",
-    "Programming/Learning Rust/RustEditor/Chapter 4.md",
-    "Programming/Learning Rust/RustEditor/Chapter 3.md",
-    "2023-08-08.md"
+    "3D_Printing/Calibration/Basic Calibration.md",
+    "3D_Printing/Calibration/Tutorials.md",
+    "3D_Printing/Neptune 4 Pro Notes.md",
+    "3D_Printing/Project Notes.md",
+    "3D_Printing/Modeling Software.md",
+    "3D_Printing/Calibration/Untitled",
+    "3D_Printing/Calibration"
   ]
 }
