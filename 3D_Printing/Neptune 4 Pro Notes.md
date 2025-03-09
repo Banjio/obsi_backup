@@ -18,3 +18,9 @@ Klipper Mesh interpretieren:
 ## Flow rate 
 
 [Flow Rate Calibration in OrcaSlicer: A Comprehensive Guide | Obico Knowledge Base](https://www.obico.io/blog/flow-rate-calibration-orca-slicer-comprehensive-guide/)
+
+### Wlan Setup 
+
+* https://3d-druck-erklaert.de/elegoo-neptune-4-pro-mit-wlan-ausruesten &Rightarrow; Unfortunately this only worked once and then the recommended turning off and on again did not fix the problem
+* https://www.obico.io/blog/how-to-connect-your-elegoo-neptune-4-pro-to-wifi/ &Rightarrow; Needs to be tested
+
