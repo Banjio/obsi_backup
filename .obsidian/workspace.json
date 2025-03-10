@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SelfHosted/Proxmox.md",
+                "file": "3D_Printing/FreeCAD/Single Dose Cup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxmox"
+              "title": "Single Dose Cup"
             }
           }
         ],
@@ -185,14 +185,16 @@
   },
   "active": "962d6f122afcf8b2",
   "lastOpenFiles": [
-    "SelfHosted/Filehosting.md",
-    "SelfHosted/Proxmox.md",
-    "3D_Printing/Neptune 4 Pro Notes.md",
-    "SelfHosted",
     "3D_Printing/Orca Slicer.md",
+    "3D_Printing/FreeCAD/Single Dose Cup.md",
+    "3D_Printing/FreeCAD",
+    "3D_Printing/Project Notes.md",
+    "3D_Printing/Neptune 4 Pro Notes.md",
+    "SelfHosted/Proxmox.md",
+    "SelfHosted/Filehosting.md",
+    "SelfHosted",
     "3D_Printing/Calibration/Tutorials.md",
     "3D_Printing/Calibration/Basic Calibration.md",
-    "3D_Printing/Project Notes.md",
     "3D_Printing/Modeling Software.md",
     "3D_Printing/Calibration/Untitled",
     "3D_Printing/Calibration"

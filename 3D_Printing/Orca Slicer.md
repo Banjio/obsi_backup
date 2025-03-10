@@ -12,3 +12,12 @@ Amazing for decorative stuff but problematic when you have parts that are fragil
 ## Adhesion Improvement
 ### First Layer
 Adhesion can be improved by setting the first layer heigh to the noozle diameter (e.g. 0.4mm if you have a 0.4mm noozle) and the width of the first layer to noozle diameter + 0.2mm (e.g. 0.6mm for forementioned case)
+
+### Infill Patterns:
+
+* Gyriod: Strength from all sides 
+* Adaptive Cubic: All Purpose (Speed and some stength)
+* Honyecomb: Long time best all purpose and still pretty solid
+* Cubic: Strength (And recommended by makersmuse)
+* Linear and Grid: Speed
+* Cross Hatch: Default
