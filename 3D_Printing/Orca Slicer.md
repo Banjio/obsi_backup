@@ -21,3 +21,22 @@ Adhesion can be improved by setting the first layer heigh to the noozle diameter
 * Cubic: Strength (And recommended by makersmuse)
 * Linear and Grid: Speed
 * Cross Hatch: Default
+
+## Muster unterer/oberer Fläche 
+
+Kann einen schönen finishing touch geben wenn man für die unter Fläche z.B Oktagramm Spirale nutzt.
+
+## Overhang improvement
+
+If you have prints with overhanging parts this settings can help 
+
+* *Wall printing order*: Inner/Outer &Rightarrow; Outer layer better adheres to the print 
+* *Ensure vertical thickness*: Filing vertical gaps and area with insufficient material
+* *Slow down for overhang* (Under layer speed)
+* Reverse odds on overhangs or improve overhangs 
+
+## Support Settings
+
+* **Raft**: Es wird eine Hiflskonstruktion (eng. raft = Floß) auf den boden gedruckt als erste Schicht auf diese Schicht wird dann das eigentliche Werkstück gedruckt. Sollte vor allem bei Stücken genutzt werden die wenig haftung mit dem Boden hätten. Der Nachteil ist, dass das Stück nachgearbeitet werden muss da es stark an dem raft haftet
+* **Brim**: Ähnlich wie beim Rafting zus. Layer die um das Werkstück gedruckt wird um Haftung zu erhöhen bei ABS sehr empfohlen. Es wird meist auf 3-5 Loops beschränkt
+* **Skirt**: Testkonstruktion die vor dem tatsächlichen Druck auf die vermutliche Testfläche aufgedruckt wird. Sie soll helfen zu erkennen ob die erste Schicht perfekt funktionieren würde. Danach kann der Skirt entfernt werden und der richtige Druck beginnen es empfiehlt sich tatsächlich immer ein Skirt (vor allem bei komplexeren Drucken) zu legen um sich zu versichern, dass die Einstellungen stimmen. 
