@@ -1,4 +1,4 @@
-^Open source os for neptune 4 series with better support for common enhancement like wifi over usb or webcams. As well as newer versions of klipper and co. https://github.com/OpenNeptune3D/OpenNept4une
+Open source os for neptune 4 series with better support for common enhancement like wifi over usb or webcams. As well as newer versions of klipper and co. https://github.com/OpenNeptune3D/OpenNept4une
 
 * Installation Guide: https://github.com/OpenNeptune3D/OpenNept4une/wiki
 
@@ -26,3 +26,7 @@ A set of scripts to install and maintain klipper on an linux arm device https://
 * Octo Everywhere: Similiar to Obico? https://octoeverywhere.com/?source=kiauh_readme
 * OctoApp: App for Smartphone connecting to your printer https://github.com/crysxd/OctoApp-Plugin
 * SimplyPrint: Cloud 3d printing
+
+## Klipper Functions that are Configured out of the Box
+* BED_LEVEL_SCREWS_TUNE
+* TILTS_SCREW_ADJUST (However i adjusted the values to the ones measured from the noozle this may be wrong because in the docs it is sad to measure from the probe): 

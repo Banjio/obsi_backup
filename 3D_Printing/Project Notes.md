@@ -45,5 +45,9 @@ https://www.printables.com/model/490583-battery-recycling-bin/comments
 Anti Vibration Feed
 ## X-Axis Belt Stopper
 https://www.printables.com/model/648503-elegoo-neptune-4-pro-x-axis-belt-tension-stopper/files
+### Logitech C270 Side Mount and Screws
+
+https://www.thingiverse.com/thing:6613543
+
 # Print Pipeline
 1. Bat Recycle Bin Again
