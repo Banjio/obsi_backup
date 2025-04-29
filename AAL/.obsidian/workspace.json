@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0062dd2a058cbd39",
+        "id": "599b44e937d712b9",
         "type": "tabs",
         "children": [
           {
-            "id": "06174ec684c1d7e7",
+            "id": "8a7a0679e28ca5ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,8 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06174ec684c1d7e7",
+  "active": "8a7a0679e28ca5ac",
   "lastOpenFiles": [
+    "Linux/Arch_Manjaro_TipsAndTricks.MD",
     "2025-02-10.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -171,7 +172,6 @@
     "Tips_Trick_UsefulStuff/vscode_tips.md",
     "Linux/editors_and_ides.MD",
     "Linux/Tiling_Window_Managers.md",
-    "Linux/Arch_Manjaro_TipsAndTricks.MD",
     "Programming/webdev/Javascript.md",
     "Programming/webdev/Debugging.md",
     "Programming/webdev/npm.md",
