@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "9fdfde98b314d49e",
+    "id": "a8b10c860d2bf8ad",
     "type": "split",
     "children": [
       {
-        "id": "5ef4cfb946f9ea99",
+        "id": "ccab922368e3570c",
         "type": "tabs",
         "children": [
           {
-            "id": "e438a6c694f1a954",
+            "id": "32c6bdee4dd8b7a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SelfHosted/Homelab Test Setup Gemini.md",
+                "file": "3D_Printing/Project Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homelab Test Setup Gemini"
-            }
-          },
-          {
-            "id": "420aa1fc381b0d56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SelfHosted/Docker Compose Setup with Gemini.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker Compose Setup with Gemini"
+              "title": "Project Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e99a943b400a0703",
+    "id": "b4941d53864098be",
     "type": "split",
     "children": [
       {
-        "id": "2a2b4834b08f79f8",
+        "id": "45e056be5e2dbec3",
         "type": "tabs",
         "children": [
           {
-            "id": "76c74b669f3bab9e",
+            "id": "7129fa5feadc1b21",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "14d4a734d3267861",
+            "id": "fed6d39e0026a5e2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "6319971270dcde8f",
+            "id": "5756b50c60851b80",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "3d2d0d2f62417fa2",
+    "id": "cfa2df71bbb3bc81",
     "type": "split",
     "children": [
       {
-        "id": "3b3bf9416477a5bb",
+        "id": "70f28f23c3ef616b",
         "type": "tabs",
         "children": [
           {
-            "id": "a54f6dff5e077824",
+            "id": "a17637686c89dade",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3D_Printing/Neptune 4 Pro Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Neptune 4 Pro Notes"
             }
           },
           {
-            "id": "af80e4a17d954c55",
+            "id": "4dc93a6ff53b1152",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3D_Printing/Neptune 4 Pro Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Neptune 4 Pro Notes"
             }
           },
           {
-            "id": "74364f9cd34da249",
+            "id": "6977026523e04db2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,17 +137,18 @@
             }
           },
           {
-            "id": "2b8d46db23c8d8f8",
+            "id": "7e85b4a6b058b22e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "3D_Printing/Neptune 4 Pro Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Neptune 4 Pro Notes"
             }
           }
         ]
@@ -172,41 +160,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "420aa1fc381b0d56",
+  "active": "32c6bdee4dd8b7a6",
   "lastOpenFiles": [
-    "SelfHosted/Homelab Test Setup Gemini.md",
-    "SelfHosted/Docker Compose Setup with Gemini.md",
-    "SelfHosted/Home Setup Le Chat Anleitung.md",
-    "SelfHosted/Services.md",
-    "3D_Printing/Modeling Software.md",
-    "3D_Printing/Parametric S Hook Promps.md",
     "3D_Printing/Neptune4Pro/Neptune 4 Pro Notes.md",
-    "AAL/Programming/webdev/HTML/Learning the Basics.md",
-    "SelfHosted/Filehosting.md",
-    "SelfHosted/Proxmox.md",
+    "3D_Printing/Parametric S Hook Promps.md",
+    "3D_Printing/Project Notes.md",
+    "3D_Printing/Kaufentscheidung.md",
+    "3D_Printing/Modeling Software.md",
+    "3D_Printing/Orca Slicer.md",
+    "SelfHosted/Docker Compose Setup with Gemini.md",
+    "Homelab/SelfHosted/Proxmox.md",
+    "SelfHosted/Services.md",
+    "SelfHosted/Homelab Test Setup Gemini.md",
     "SelfHosted",
+    "Programming/Untitled.canvas",
+    "Programming/Untitled 1.canvas",
+    "Programming/2023-11-09.md",
+    "Homelab/Thinkcentre Setup.md",
     "Cooking/Pizza/Biga.md",
+    "Homelab/SelfHosted/Home Setup Le Chat Anleitung.md",
+    "Homelab/SelfHosted/Filehosting.md",
+    "Programming/Linux/Install Arch.md",
+    "Programming/Linux/Arch_Manjaro_TipsAndTricks.MD",
+    "Excalidraw/Drawing 2025-04-21 14.54.56.excalidraw.md",
+    "Homelab",
+    "Excalidraw",
+    "Software/EU Alternatives.md",
+    "Software",
+    "3D_Printing/Neptune4Pro/OpenNeptune.md",
+    "3D_Printing/Calibration/Basic Calibration.md",
+    "3D_Printing/Calibration/Tutorials.md",
+    "3D_Printing/FreeCAD/Single Dose Cup.md",
+    "3D_Printing/Neptune4Pro",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "2025-03-16.md",
+    "Programming/Linux/editors_and_ides.MD",
     "Cooking/Pizza",
     "Cooking",
-    "3D_Printing/Neptune4Pro/OpenNeptune.md",
-    "3D_Printing/FreeCAD/Single Dose Cup.md",
-    "3D_Printing/Calibration/Tutorials.md",
-    "3D_Printing/Calibration/Basic Calibration.md",
-    "3D_Printing/Project Notes.md",
-    "3D_Printing/Orca Slicer.md",
-    "3D_Printing/Neptune4Pro",
     "3D_Printing/FreeCAD",
-    "3D_Printing/Calibration",
-    "3D_Printing"
+    "Homelab/SelfHosted",
+    "3D_Printing/Calibration/Untitled"
   ]
 }
