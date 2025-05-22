@@ -5,3 +5,5 @@
 * Paperless-ngx 
 * Immich
 * Plex/Jellifyn?
+* [[N8N]]
+* [[OpenWebui]]

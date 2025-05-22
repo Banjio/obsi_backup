@@ -1,3 +1,9 @@
+---
+tags:
+  - docker
+  - homelab
+  - hacks
+---
 
 ## Stop and remove all containers
 

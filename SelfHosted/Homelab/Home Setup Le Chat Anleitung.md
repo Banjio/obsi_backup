@@ -1,3 +1,9 @@
+---
+tags:
+  - docker
+  - homelab
+  - ai
+---
 	Um ein Homelab mit Proxmox einzurichten, das Seafile, Vaultwarden und einen 3D-Drucker mit Fluidd-Webschnittstelle hostet und über eine dynamische DNS-Adresse erreichbar ist, können Sie die folgenden Schritte befolgen. Ich werde auch die Containertypen und Sicherheitsmaßnahmen wie 2FA und VPN-Zugriff behandeln.
 
 ### 1. Proxmox-Server vorbereiten
