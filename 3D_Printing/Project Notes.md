@@ -51,3 +51,9 @@ https://www.thingiverse.com/thing:6613543
 
 # Print Pipeline
 1. Bat Recycle Bin Again
+
+
+| Category    | Project       | Link                                                                                             | Print Notes |
+| ----------- | ------------- | ------------------------------------------------------------------------------------------------ | ----------- |
+| Modding P1S | Spool Adapter | https://www.printables.com/model/655060-bambu-p1s-x1c-spool-holder-adapter-for-wider-spool/files |             |
+|             |               |                                                                                                  |             |
