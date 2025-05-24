@@ -1,14 +1,3 @@
-# 0 Installation
-
-I for myself usually alwayse use the Manjaro KDE https://manjaro.org/downloads/official/kde/ version. Because for me i like the feature richness of kde but the ease of use of manjaro plus the rolling release model. However, this is to your personal preference. There are many online ressources for that which can be consulted. 
-
-## Installation Steps
-### Partitioning
-
-* Apart from Partitioning the installation using the manjaro installer is straight forward. As partitioning scheme I use a btrfs filesystem. When using btrfs an efi partition is needed, mounted at /boot/efi with mark boot.
-* Secure boot must be disabled
-* A extensive guide on btrfs with arch is found here https://wiki.archlinux.org/title/btrfs
-
 # 1 Configuration and Packages
 
 ## 1.1 Package Manager
@@ -135,51 +124,3 @@ I prefer chromium based browser because of the working netflix 1080p plugin.
 
 * __Tmux__: For remote sessions (ssh)
 * __fzf__: For fuzzy autocompletion and reverse searching. Note for bash you have to source it in your `.bashrc` https://wiki.archlinux.org/title/fzf
-
-# 2. Known Problems
-
-## Bluemann
-
-__Problem__: Not working by default -> Ressource not available Error message
-
-__Solution__:
-
-## Nvidia Drivers
-
-* On my older pc i have a nvidia card which is not supported by newer drivers.
-* To downgrade use `sudo mhwd -a pci nonfree 0300` selecting the correct version for you
-* It may be neccessary to remove the existing driver first `sudo mhwd -r pci`
-
-If this does not help try: I have an older graphic card and thus had to downgrad the driver for a more stable experience (Go to manjaro settings and then i choose bumblebee 390 as only other viable option)
-## Visual Studio Code
-
-Depending on the version your using, the setting sync is no longer working (Apparently this is also the case in the newest version for code-bin). Then use the extension
-
-```sh
-$ ext install Shan.code-settings-sync
-```
-
-### Solution for Binary packages
-
-Install 
-
-```sh
-$ sudo pacman -S gnome-keyring libsecret libgnome-keyring   
-```
-
-Additionally xdg-utils may be neccessary which is not installed on all manjaro installations
-# 99. Common patterns
-## Ssh generation
-
-For me i like the trade off between compatibility and usability the most for the ecdsa algorithm:
-
-```sh
-$ ssh-keygen -t ecdsa -b 521
-```
-
-This guide tells you all you should know https://www.ssh.com/academy/ssh/keygen#choosing-an-algorithm-and-key-size
-
-## Useful commands
-
-* Logout from KDE Session  `> loginctl terminate-user "your usrname"`
-* Deactivating Splash Screen https://archived.forum.manjaro.org/t/solved-disable-splash-screen-at-boot/89868

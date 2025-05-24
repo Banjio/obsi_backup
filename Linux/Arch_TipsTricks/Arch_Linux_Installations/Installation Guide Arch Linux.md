@@ -1,4 +1,5 @@
 # Arch installation 
+See [[Install Arch on bootable device]] for packages that miss here
 
 Notes for installing arch with the python-archinstaller for fast setup. Afterwards great part of the system should be setup with bash scripts. This can be further automatized by supplying a config to the installer which has all the settings embedded into it https://python-archinstall.readthedocs.io/en/latest/installing/guided.html#installing-directly-from-a-configuration-file
 

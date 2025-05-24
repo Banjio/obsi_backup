@@ -1,4 +1,4 @@
-
+#ai-generated
 * Create 3 Sketches  with 3 different Circles each with Diameters and change the Z Value so that it is moved along the z axis
 * Create a loft for the 3 Sketcheds
 * Create a Thickness for the loft : Use pipe and select the top and bottom if you want to hollow out the body entirely

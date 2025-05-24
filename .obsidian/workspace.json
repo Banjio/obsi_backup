@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "90e836ed2dab0ed0",
+        "id": "d913816ab66e53a6",
         "type": "tabs",
         "children": [
           {
-            "id": "9f36fbdcb5058120",
+            "id": "430401b1c0cd759a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Personas/Rust Teacher.md",
+                "file": "SelfHosted/Projects/N8N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Teacher"
-            }
-          },
-          {
-            "id": "65257a9491de8587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cooking/Pizza/Poolish.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Poolish"
+              "title": "N8N"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,46 +170,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65257a9491de8587",
+  "active": "430401b1c0cd759a",
   "lastOpenFiles": [
-    "Cooking/Pizza/Pizza Basics.md",
-    "Cooking/Pizza/Biga.md",
-    "Cooking/Pizza/Teigmanagement.md",
-    "Cooking/Pizza/Poolish.md",
-    "AI/Personas/Prompt Engineer.md",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2025-05-24 17.31.12.excalidraw.md",
+    "Software/EU Alternatives.md",
+    "Programming/Tips_Trick_UsefulStuff/vscode_tips.md",
     "Programming/Literature/CS and Prog Literature.md",
-    "Excalidraw/Drawing 2025-05-24 17.28.58.excalidraw.md",
+    "Programming/Literature/algosAndDs/grooking_algorithms.MD",
+    "Linux/Arch_TipsTricks/Arch_Linux_Installations/Installation Guide Arch Linux.md",
+    "Programming/Untitled.canvas",
+    "Linux/Arch_TipsTricks/Arch_Manjaro_TipsAndTricks.md",
+    "Linux/Tiling_Window_Managers.md",
+    "Linux/Terminal.md",
+    "Linux/editors_and_ides.MD",
+    "Linux/Arch_TipsTricks/Arch_Linux_Installations/Install Arch on bootable device.md",
+    "Linux/Arch_TipsTricks/Arch_Linux_Installations/Manjaro Installation.md",
+    "Linux/Arch_TipsTricks/Arch_Linux_Installations",
+    "Linux/Arch_TipsTricks/99. Common patterns.md",
+    "Linux/Arch_TipsTricks/1 Configuration and Packages.md",
+    "Linux/Arch_TipsTricks/2. Known Problems.md",
+    "Linux/Arch_TipsTricks",
+    "Homelab/SelfHosted/Filehosting.md",
+    "Homelab/SelfHosted/Home Setup Le Chat Anleitung.md",
+    "Homelab/SelfHosted/Proxmox.md",
+    "Homelab/Thinkcentre Setup.md",
+    "3D_Printing/Project Notes.md",
+    "3D_Printing/Parametric S Hook Promps.md",
+    "3D_Printing/Orca Slicer.md",
+    "3D_Printing/Modeling Software.md",
+    "3D_Printing/Kaufentscheidung.md",
+    "3D_Printing/Bambulab P1S.md",
     "AI/Personas/Rust Teacher.md",
-    "Programming/Programming/Learning Rust/Rust teached by AI.md",
-    "AI/Prompting.md",
-    "AI/Personas/Persona Template.md",
-    "Cooking/Bananen-Pancake.md",
+    "3D_Printing/Neptune4Pro/OpenNeptune.md",
+    "Untitled.canvas",
     "AI/Personas",
-    "ObsidianTips/Shortcuts.md",
-    "ObsidianTips/Tags.md",
     "ObsidianTips",
     "Untitled 1",
     "Untitled",
-    "SelfHosted/Projects/N8N.md",
-    "SelfHosted/Docker/Docker Compose.md",
-    "SelfHosted/Docker/Docker hacks.md",
     "AI",
-    "2025-03-16.md",
-    "Work/Vision 2025.md",
     "obsidian_config_backup/workspace.json",
     "obsidian_config_backup/core-plugins.json",
     "obsidian_config_backup/appearance.json",
-    "obsidian_config_backup/app.json",
-    "obsidian_config_backup",
-    "Software/EU Alternatives.md",
-    "SelfHosted/Services.md",
-    "SelfHosted/Projects/OpenWebui.md",
-    "SelfHosted/Homelab/Homelab Test Setup Gemini.md",
-    "SelfHosted/Homelab/Home Setup Le Chat Anleitung.md",
-    "SelfHosted/Docker/Docker Compose Setup with Gemini.md",
-    "Programming/Untitled.canvas",
     "Programming/Untitled 1.canvas",
     "Untitled 1.canvas"
   ]

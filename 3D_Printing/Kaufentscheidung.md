@@ -1,3 +1,4 @@
+#ai-generated 
 # Core XY
 
 ## P1S, Kobra S1, Creality K1C
