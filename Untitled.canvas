@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0dd88ec1bf8a9173","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"This is a note"},
+		{"id":"4b298143ae3c4bad","x":-560,"y":-300,"width":400,"height":400,"type":"file","file":"Excalidraw/Drawing 2025-05-24 17.28.58.excalidraw.md"}
+	],
+	"edges":[
+		{"id":"6afec61681b13187","fromNode":"0dd88ec1bf8a9173","fromSide":"top","toNode":"4b298143ae3c4bad","toSide":"top"}
+	]
+}
